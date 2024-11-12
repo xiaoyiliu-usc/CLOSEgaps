@@ -1,6 +1,5 @@
 ## Before running
-Please download the DIAMOND alignment tool from the following link:
-https://github.com/bbuchfink/diamond/wiki
+Please download the DIAMOND alignment tool from the following link: https://github.com/bbuchfink/diamond/wiki
 
 Installation Instructions:
 
