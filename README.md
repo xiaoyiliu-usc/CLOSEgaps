@@ -66,15 +66,15 @@ Parameter Descriptions:
 
 <kbd>rxn_file</kbd> The CSV file of reactions you need to align. The column name for reactions should be rxn_id.
 
-<kbd>reaction_file<kbd> The fixed GPR database file, bigg_MetaCYC_gprs.csv. Modify the path to point to your directory.
+<kbd>reaction_file</kbd> The fixed GPR database file, bigg_MetaCYC_gprs.csv. Modify the path to point to your directory.
 
-<kbd>fasta_file<kbd> The fixed FASTA sequence database, DB_CARVEME.fasta. Modify the path to point to your directory.
+<kbd>fasta_file</kbd> The fixed FASTA sequence database, DB_CARVEME.fasta. Modify the path to point to your directory.
 
-<kbd>folder_path<kbd> The folder containing the uploaded sequences. Change this to your directory path.
+<kbd>folder_path</kbd> The folder containing the uploaded sequences. Change this to your directory path.
 
-<kbd>output_csv_file<kbd> The output file for results. Modify this to your directory path.
+<kbd>output_csv_file</kbd> The output file for results. Modify this to your directory path.
 
-<kbd>diamond_path<kbd> The path where DIAMOND is installed.
+<kbd>diamond_path</kbd> The path where DIAMOND is installed.
 
 ## Running the Experiment
 To run our model in the yeast dataset, based on the default conditions, which set the ratio of positive and negative reactions as 1:1, imbalanced atom number, and the ratio of replaced atoms for negative reaction as 0.5:
